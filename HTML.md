@@ -1,94 +1,94 @@
-ÃâÃ³ : »ýÈ°ÄÚµù
+ï¿½ï¿½Ã³ : ï¿½ï¿½È°ï¿½Úµï¿½
 
 ```html
-<h1>¿À´ÃÀÇ ¸í¾ð</h1>
-¿ì¸® ¸ðµÎ´Â <strong>ÀÚ½ÅÀÇ Èû</strong>À¸·Î ¹ß°ßÇÑ ³»¿ëÀ» °¡Àå ½±°Ô ÀÍÈù´Ù.(µµ³Îµå Ä¿´©½º)
+<h1>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½</h1>
+ï¿½ì¸® ï¿½ï¿½Î´ï¿½ <strong>ï¿½Ú½ï¿½ï¿½ï¿½ ï¿½ï¿½</strong>ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.(ï¿½ï¿½ï¿½Îµï¿½ Ä¿ï¿½ï¿½ï¿½ï¿½)
 ```
-<h1\> ÀÌ¶ó´Â ÅÂ±×¸¦ ¿­¾î À¥ ºê¶ó¿ìÀú´Â ¿À´ÃÀÇ ¸í¾ðÀ» Á¦¸ñÀ¸·Î Ã³¸®ÇÑ´Ù. <h1\>ÀÌ ³¡³¯¶§±îÁö ±½°í Å« ¹®ÀÚ·Î ²Ù¸çÁÖ°í ÁÙ¹Ù²ÞÀ» ÇÑ¹ø ÇÑ´Ù. (<h1\>À» <h2\>·Î ¹Ù²Ù¸é ±Û¾¾°¡ Á¶±Ý ÀÛ¾ÆÁø´Ù.)
+<h1\> ï¿½Ì¶ï¿½ï¿½ ï¿½Â±×¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ã³ï¿½ï¿½ï¿½Ñ´ï¿½. <h1\>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Å« ï¿½ï¿½ï¿½Ú·ï¿½ ï¿½Ù¸ï¿½ï¿½Ö°ï¿½ ï¿½Ù¹Ù²ï¿½ï¿½ï¿½ ï¿½Ñ¹ï¿½ ï¿½Ñ´ï¿½. (<h1\>ï¿½ï¿½ <h2\>ï¿½ï¿½ ï¿½Ù²Ù¸ï¿½ ï¿½Û¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Û¾ï¿½ï¿½ï¿½ï¿½ï¿½.)
 
-<strong\> ÀÌ¶ó´Â ÅÂ±×´Â ´Ü¾î¸¦ °­Á¶, ÁøÇÏ°Ô Ç¥½ÃÇÑ´Ù.
+<strong\> ï¿½Ì¶ï¿½ï¿½ ï¿½Â±×´ï¿½ ï¿½Ü¾î¸¦ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½Ï°ï¿½ Ç¥ï¿½ï¿½ï¿½Ñ´ï¿½.
 
-¿©±â¼­ <strong\>Àº ½ÃÀÛÅÂ±×, </strong\>Àº ´ÝÈ÷´Â ÅÂ±×ÀÌ´Ù.
+ï¿½ï¿½ï¿½â¼­ <strong\>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Â±ï¿½, </strong\>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Â±ï¿½ï¿½Ì´ï¿½.
 
-<a\> ÅÂ±×¸¦ °É¾î ¹®ÀÚ°¡ ¸µÅ©¶ó´Â »ç½ÇÀ» ¾Ë·ÁÁÖ°í À¥ ÆäÀÌÁö·Î ÀÌµ¿ÇÒ ¼ö ÀÖµµ·Ï ÇÑ´Ù.
+<a\> ï¿½Â±×¸ï¿½ ï¿½É¾ï¿½ ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½ï¿½Å©ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ë·ï¿½ï¿½Ö°ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Öµï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½.
 
 ```html
-<a href="https://www.google.co.kr/" target="_blank" title="±¸±ÛÈ¨ÆäÀÌÁö">±¸±Û</a>
+<a href="https://www.google.co.kr/" target="_blank" title="ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½">ï¿½ï¿½ï¿½ï¿½</a>
 ```
-targetÀº '±¸±Û'À» Å¬¸¯ÇßÀ» ¶§ ÇØ´ç À¥ ÆäÀÌÁö¿¡¼­ ¹Ù·Î ¸µÅ©·Î µé¾î°¡Áö ¾Ê°í ´ÙÀ½ ÅÇ¿¡¼­ ¸µÅ©·Î »õ·Î ¿­¸®µµ·Ï ÇÑ´Ù.
+targetï¿½ï¿½ 'ï¿½ï¿½ï¿½ï¿½'ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ø´ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ù·ï¿½ ï¿½ï¿½Å©ï¿½ï¿½ ï¿½ï¿½î°¡ï¿½ï¿½ ï¿½Ê°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¿ï¿½ï¿½ï¿½ ï¿½ï¿½Å©ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½.
 
-titleÀº ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ '±¸±Û'À§·Î ¿Ã·Á ³ùÀ»¶§ ±¸±ÛÈ¨ÆäÀÌÁö ¿öµå°¡ ¶ßµµ·Ï ÇÑ´Ù.
+titleï¿½ï¿½ ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ 'ï¿½ï¿½ï¿½ï¿½'ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½å°¡ ï¿½ßµï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½.
 
 ![image](https://user-images.githubusercontent.com/62539341/82145108-75a35e80-9883-11ea-9f7f-c98e1bca55ff.png)
 
 
-<li\> ÅÂ±×¸¦ »ç¿ëÇÏ¸é ¸ñ·ÏÀ¸·Î Ç¥Çö<br>
-<ul\> ÅÂ±×·Î °°Àº Á¾·ùÀÇ ÅÂ±×¸¦ ¹­¾î grouping ÇÒ ¼ö ÀÖ´Ù.<br>
-<ol\>Àº ¼ýÀÚ°¡ ºÙ°í <ul\>Àº ¼ýÀÚ°¡ ºÙÁö ¾Ê´Â´Ù.
+<li\> ï¿½Â±×¸ï¿½ ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½<br>
+<ul\> ï¿½Â±×·ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Â±×¸ï¿½ ï¿½ï¿½ï¿½ï¿½ grouping ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.<br>
+<ol\>ï¿½ï¿½ ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Ù°ï¿½ <ul\>ï¿½ï¿½ ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ê´Â´ï¿½.
 
-ÅÂ±×¿Í ÅÂ±×´Â ÁßÃ¸ÇØ¼­ »ç¿ë °¡´ÉÇÏ´Ù.
+ï¿½Â±×¿ï¿½ ï¿½Â±×´ï¿½ ï¿½ï¿½Ã¸ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.
 
 ```html
 <ol>
-    <li>±â¼ú¼Ò°³</li>
-    <li>±âº»¹®¹ý</li>
-    <li>ÇÏÀÌÆÛÅØ½ºÆ®¿Í ¼Ó¼º</li>
-    <li>¸®½ºÆ®¿Í ÅÂ±×ÀÇ ÁßÃ¸</li>
+    <li>ï¿½ï¿½ï¿½ï¿½Ò°ï¿½</li>
+    <li>ï¿½âº»ï¿½ï¿½ï¿½ï¿½</li>
+    <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø½ï¿½Æ®ï¿½ï¿½ ï¿½Ó¼ï¿½</li>
+    <li>ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½Â±ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¸</li>
 </ol>
 <ul>
-    <li>ÃÖÁøÇõ</li>
-    <li>ÃÖÀ¯ºó</li>
-    <li>ÇÑÀÌ¶÷</li>
-    <li>ÇÑÀÌÀº</li>
+    <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
+    <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
+    <li>ï¿½ï¿½ï¿½Ì¶ï¿½</li>
+    <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
 </ul>
 ```
 
 ![image](https://user-images.githubusercontent.com/62539341/82145202-12fe9280-9884-11ea-8fbf-6455759a38cc.png)
 
-<title\> ÅÂ±×¸¦ ÀÌ¿ëÇØ¼­ À¥ ÆäÀÌÁö Á¦¸ñÀ» ¸ÚÀÖ°Ô ¼³Á¤ÇÒ ¼ö ÀÖ´Ù.
+<title\> ï¿½Â±×¸ï¿½ ï¿½Ì¿ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ö°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 
-±Û¾¾°¡ ÀÌ»óÇÏ°Ô ±úÁö´Â °æ¿ì°¡ ÀÖÀ» ¶§´Â <meta charset="utf-8"> ÅÂ±×¸¦ Ãß°¡ÇØÁÖ¸é ÀÌ Çö»óÀ» ¾ø¾Ù ¼ö ÀÖ´Ù.
+ï¿½Û¾ï¿½ï¿½ï¿½ ï¿½Ì»ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ì°¡ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ <meta charset="utf-8"> ï¿½Â±×¸ï¿½ ï¿½ß°ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 
-htmlÀº ºÎ°¡ÀûÀÎ Á¤º¸¿Í º»¹®À» °¢°¢ ´Ù¸¥ ÅÂ±×¿¡ ´ãµµ·Ï ¾à¼ÓÇß´Ù.
+htmlï¿½ï¿½ ï¿½Î°ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½Â±×¿ï¿½ ï¿½ãµµï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ß´ï¿½.
 
 ```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>HTML - ¼ö¾÷</title>
+        <title>HTML - ï¿½ï¿½ï¿½ï¿½</title>
         <meta charset="utf-8">
     </head>
     <body>
         <h1>HTML</h1>
         <ol>
-            <li>±â¼ú¼Ò°³</li>
-            <li>±âº»¹®¹ý</li>
-            <li>ÇÏÀÌÆÛÅØ½ºÆ®¿Í ¼Ó¼º</li>
-            <li>¸®½ºÆ®¿Í ÅÂ±×ÀÇ ÁßÃ¸</li>
+            <li>ï¿½ï¿½ï¿½ï¿½Ò°ï¿½</li>
+            <li>ï¿½âº»ï¿½ï¿½ï¿½ï¿½</li>
+            <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø½ï¿½Æ®ï¿½ï¿½ ï¿½Ó¼ï¿½</li>
+            <li>ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½Â±ï¿½ï¿½ï¿½ ï¿½ï¿½Ã¸</li>
         </ol>
         <ul>
-            <li>ÃÖÁøÇõ</li>
-            <li>ÃÖÀ¯ºó</li>
-            <li>ÇÑÀÌ¶÷</li>
-            <li>ÇÑÀÌÀº</li>
+            <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
+            <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
+            <li>ï¿½ï¿½ï¿½Ì¶ï¿½</li>
+            <li>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</li>
         </ul>
-        HTMLÀ» °øºÎÇÕ´Ï´Ù.
+        HTMLï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½.
     </body>
 </html>
 ```
 
-º»¹®ÀÌ ¾Æ´Ñ °ÍÀº <head\>ÅÂ±× ¾È¿¡, º»¹®Àº <body\>ÅÂ±× ¾È¿¡ µé¾î¿Â´Ù. 
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ´ï¿½ ï¿½ï¿½ï¿½ï¿½ <head\>ï¿½Â±ï¿½ ï¿½È¿ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ <body\>ï¿½Â±ï¿½ ï¿½È¿ï¿½ ï¿½ï¿½ï¿½Â´ï¿½. 
 
-±×¸®°í <head\>¿Í <body\>¸¦ <html\>ÅÂ±×·Î °¨½ÎÁØ´Ù.
+ï¿½×¸ï¿½ï¿½ï¿½ <head\>ï¿½ï¿½ <body\>ï¿½ï¿½ <html\>ï¿½Â±×·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø´ï¿½.
 
-<\!DOCTYPE html\>Àº document type declaration ÀÇ ¾àÀÚ
+<\!DOCTYPE html\>ï¿½ï¿½ document type declaration ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
-ÀÚ½ÅÀÌ ÀÛ¼ºÇÑ html ÄÚµå°¡ ¾î¶² ¹æ½ÄÀÇ html ÄÚµå·Î ÀÛ¼º‰ç´ÂÁö¸¦ ¼±¾ðÇÏ´Â °ÍÀÌ´Ù.
+ï¿½Ú½ï¿½ï¿½ï¿½ ï¿½Û¼ï¿½ï¿½ï¿½ html ï¿½Úµå°¡ ï¿½î¶² ï¿½ï¿½ï¿½ï¿½ï¿½ html ï¿½Úµï¿½ï¿½ ï¿½Û¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½.
 
 ![image](https://user-images.githubusercontent.com/62539341/82145298-c9627780-9884-11ea-9152-ab5927305cf1.png)
 
-<p\> ÅÂ±×´Â paragraph ÀÇ ÁÙÀÓ¸»·Î ´Ü¶ôÀÌ¶õ ¶æÀÌ´Ù. <p\> ÅÂ±×¸¦ ÀÌ¿ëÇÏ¿© ´Ü¶ôÀ» ÁöÁ¤ÇÒ ¼ö ÀÖ´Ù.<br>
-<br\> ÅÂ±×¸¦ ÀÌ¿ëÇÏ¸é ÁÙ¹Ù²ÞÀ» ÇÒ ¼ö ÀÖ´Ù.
+<p\> ï¿½Â±×´ï¿½ paragraph ï¿½ï¿½ ï¿½ï¿½ï¿½Ó¸ï¿½ï¿½ï¿½ ï¿½Ü¶ï¿½ï¿½Ì¶ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½. <p\> ï¿½Â±×¸ï¿½ ï¿½Ì¿ï¿½ï¿½Ï¿ï¿½ ï¿½Ü¶ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.<br>
+<br\> ï¿½Â±×¸ï¿½ ï¿½Ì¿ï¿½ï¿½Ï¸ï¿½ ï¿½Ù¹Ù²ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 
 ```html
 <html>
@@ -110,23 +110,65 @@ htmlÀº ºÎ°¡ÀûÀÎ Á¤º¸¿Í º»¹®À» °¢°¢ ´Ù¸¥ ÅÂ±×¿¡ ´ãµµ·Ï ¾à¼ÓÇß´Ù.
             Other tags such as <p\> surround and provide information about document text and may include other tags as sub-elements. 
             Browsers do not display the HTML tags, but use them to interpret the content of the page.
         </p>
-        <img src="img.jpg" height="300" alt="ÀÌ¹ÌÁö" title="image">
+        <img src="img.jpg" height="300" alt="ï¿½Ì¹ï¿½ï¿½ï¿½" title="image">
     </body>
 </html>
 ```
 
-<img\>¸¦ ¿ëÇØ ÀÌ¹ÌÁö¸¦ À¥ ÆäÀÌÁö¿¡ ³ªÅ¸³¾ ¼ö ÀÖ´Ù. height´Â ³ôÀÌ, width´Â ÆøÀ» ¼³Á¤ÇØ¼­ »çÁøÀÇ Å©±â¸¦ Á¶ÀýÇÒ ¼ö ÀÖ´Ù. alt¶ó´Â ¼Ó¼ºÀ» »ç¿ëÇÏ¸é ÀÌ¹ÌÁö°¡ ±úÁ³À» ¶§ ÅØ½ºÆ®¸¦ Ç¥½ÃÇØÁØ´Ù. titleÀº ¸¶¿ì½º Æ÷ÀÎÅÍ¸¦ »çÁø À§·Î ¿Ã·ÈÀ» ¶§ ÅØ½ºÆ®¸¦ Ç¥½ÃÇØÁØ´Ù.
+<img\>ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å¸ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½. heightï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, widthï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å©ï¿½â¸¦ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½. altï¿½ï¿½ï¿½ ï¿½Ó¼ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ø½ï¿½Æ®ï¿½ï¿½ Ç¥ï¿½ï¿½ï¿½ï¿½ï¿½Ø´ï¿½. titleï¿½ï¿½ ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã·ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ø½ï¿½Æ®ï¿½ï¿½ Ç¥ï¿½ï¿½ï¿½ï¿½ï¿½Ø´ï¿½.
 
 ![image](https://user-images.githubusercontent.com/62539341/82179911-66232480-991a-11ea-9a37-73b3e5acc8fa.png)
 
-formÀº »ç¿ëÀÚ°¡ ÀÔ·ÂÇÑ Á¤º¸¸¦ ¼­¹ö·Î Àü¼ÛÇÒ ¶§ »ç¿ëÇÏ´Â °ÍÀÌ´Ù.
+formï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½.
 
-<input\>À¸·Î »ç¿ëÀÚÀÇ ÀÔ·ÂÀ» ¹Þ¾Æ¿Ã ¼ö ÀÖ´Ù.
+<input\>ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ ï¿½Þ¾Æ¿ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 
-text·Î Çü½ÄÀ» ÁöÁ¤ÇÏ¸é »ç¿ëÀÚ°¡ ÀÔ·ÂÇÏ´Â text¸¦ ¹Þ¾Æ¿Ã ¼ö ÀÖ´Ù.
+textï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Ô·ï¿½ï¿½Ï´ï¿½ textï¿½ï¿½ ï¿½Þ¾Æ¿ï¿½ ï¿½ï¿½ ï¿½Ö´ï¿½.
 
-password·Î typeÀ» ÇÏ¸é »ç¿ëÀÚ°¡ ÀÔ·ÂÇÏ´Â ±ÛÀÚ´Â º¸ÀÌÁö ¾Ê´Â´Ù.
+passwordï¿½ï¿½ typeï¿½ï¿½ ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Ô·ï¿½ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½Ú´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê´Â´ï¿½.
 
-submitÀº Á¦Ãâ ¹öÆ°À» »ý¼ºÇØÁØ´Ù.
+submitï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø´ï¿½.
 
-»ç¿ëÀÚ°¡ ÀÔ·ÂÇÑ Á¤º¸¸¦ ¾îµð·Î º¸³¾ °ÍÀÎ°¡¸¦ form ÅÂ±× ¾È¿¡ ½áÁÖ¸é µÈ´Ù.
+ï¿½ï¿½ï¿½ï¿½Ú°ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Î°ï¿½ï¿½ï¿½ form ï¿½Â±ï¿½ ï¿½È¿ï¿½ ï¿½ï¿½ï¿½Ö¸ï¿½ ï¿½È´ï¿½.
+
+-----------------------------------------------------------------
+<h2>write-up</h2>
+
+<h3>HTML- source code</h3>
+
+![image](https://user-images.githubusercontent.com/62539341/98460098-97532200-21e4-11eb-94d5-b0b9a9c0644e.png)
+
+ì¶œì²˜:https://www.root-me.org/en/Challenges/Web-Server/HTML-source-code
+
+![image](https://user-images.githubusercontent.com/62539341/98460145-f6189b80-21e4-11eb-8379-be96e5d25172.png)
+
+ì£¼ì„ ë¶€ë¶„ì— passwordê°€ nZ^&@q5&sjJHev0ë¼ê³  ì í˜€ìžˆë‹¤.
+
+<h3>Webhacking.kr old-1ë²ˆ</h3>
+
+![image](https://user-images.githubusercontent.com/62539341/98460172-47c12600-21e5-11eb-937a-bc76d9fedab2.png)
+
+ì¶œì²˜:https://webhacking.kr/challenge/web-01/
+
+view-sourceë¥¼ ëˆŒëŸ¬ ì½”ë“œë¥¼ í™•ì¸í•´ë³´ì•˜ë‹¤.
+
+![image](https://user-images.githubusercontent.com/62539341/98460268-2f9dd680-21e6-11eb-83d6-f82e18d694ec.png)
+
+user_lv ì¿ í‚¤ê°’ì´ 6ë³´ë‹¤ í¬ê±°ë‚˜ ê°™ìœ¼ë©´ ì¿ í‚¤ê°’ì€ 1ì´ ë˜ê³ , ì¿ í‚¤ê°’ì´ 5ë³´ë‹¤ í¬ë©´ solve(1) ì´ ì‹¤í–‰ë˜ëŠ” ê²ƒì„ ë³´ì•„ í•´ê²°ì´ ë˜ëŠ” ê²ƒ ê°™ë‹¤. ê·¸ëŸ¼ 5ë³´ë‹¤ëŠ” í¬ê³  6ë³´ë‹¤ëŠ” ìž‘ì€ ìˆ˜ë¥¼ ì¿ í‚¤ì— ë„£ìœ¼ë©´ ëœë‹¤.
+
+![image](https://user-images.githubusercontent.com/62539341/98460284-6bd13700-21e6-11eb-90f6-a38a00b2574b.png)
+
+<h3>HTML disabled</h3>
+
+![image](https://user-images.githubusercontent.com/62539341/98460329-d5514580-21e6-11eb-85c7-26082dae59c0.png)
+
+ì§€ê¸ˆ ì € í…ìŠ¤íŠ¸ìƒìžë¥¼ ëˆŒëŸ¬ë³´ë‹ˆ ì œëŒ€ë¡œ ìž‘ë™í•˜ì§€ ì•ŠëŠ”ë‹¤. ë²„íŠ¼ë„ ë§ˆì°¬ê°€ì§€ë‹¤.
+ì´ë²ˆì—ë„ íŽ˜ì´ì§€ ì†ŒìŠ¤ë¥¼ í™•ì¸í•œë‹¤.
+
+![image](https://user-images.githubusercontent.com/62539341/98460356-0c275b80-21e7-11eb-8e12-c1af48972a71.png)
+
+disabled ë¼ëŠ” í‚¤ì›Œë“œ ë•Œë¬¸ì— í˜„ìž¬ ì ‘ê·¼ì´ ë¶ˆê°€ëŠ¥í•œ ê²ƒ ê°™ë‹¤. disabledë¥¼ ì—†ì• ë³´ì•˜ë‹¤.
+
+![image](https://user-images.githubusercontent.com/62539341/98460384-57da0500-21e7-11eb-9146-5ee5291e9865.png)
+
+í…ìŠ¤íŠ¸ë°•ìŠ¤ì™€ ë²„íŠ¼ì´ í™œì„±í™”ë˜ì—ˆê³ , ì•„ë¬´ ê¸€ìžë¥¼ ìž…ë ¥í•´ë³´ë‹ˆ ë¬¸ì œê°€ í•´ê²°ë˜ì—ˆë‹¤.
